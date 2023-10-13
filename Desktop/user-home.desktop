@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Exec=pcmanfm-qt /home/data
+Icon=user-home
+Name=data

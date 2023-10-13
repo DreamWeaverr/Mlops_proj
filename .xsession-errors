@@ -1,0 +1,2336 @@
+Xsession: X session started for data at Пт 13 окт 2023 19:22:21 +05
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/data/.Xauthority
+localuser:data being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting PWD=/home/data
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=data
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/data/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/data
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting LANG=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting USER=data
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+New PolkitAgentListener  0x564deda24e00
+Adding new listener  PolkitQt1::Agent::Listener(0x7fffdface2b0) for  0x564deda24e00
+isPrimaryInstance
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+XdgDesktopFile "/usr/share/applications/firefox.desktop" is not valid
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1200008 handle QWidgetWindow(0x55a4bb910350, name="LXQtPanel panel1Window") QScreen(0x55a4bb677940, name="Virtual1")
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+Systray started
+()
+Translator is not loaded "qlipper_ru_RU" "/usr/share/qlipper/translations"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+BatteryChanged discharging: true chargeLevel: nan actionTime: QTime(Invalid)
+Inhibit got: 24
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Starting idlenesswatcher
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+Чтение списков пакетов… 0%Чтение списков пакетов… 100%Чтение списков пакетов… Готово
+Построение дерева зависимостей… 0%Построение дерева зависимостей… 0%Построение дерева зависимостей… 50%Построение дерева зависимостей… 50%Построение дерева зависимостей… Готово
+Чтение информации о состоянии… 0%             Чтение информации о состоянии… 0%Чтение информации о состоянии… Готово
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Status:Resolving dependencies status-resolving-dep
+
+Status:Waiting for service to start status-setting-up
+
+Status:Waiting for authentication status-authenticating
+
+Status:Waiting status-waiting
+
+Status:Running task status-running
+
+Status:Cleaning up status-cleaning-up
+
+Status:Applying changes status-committing
+
+Status:Resolving dependencies status-resolving-dep
+
+Status:Loading software list status-loading-cache
+
+Status:Resolving dependencies status-resolving-dep
+
+Status:Waiting for service to start status-setting-up
+
+Status:Waiting for authentication status-authenticating
+
+Status:Loading software list status-loading-cache
+
+Status:Finished status-finished
+
+Status:Waiting status-waiting
+
+Status:Running task status-running
+
+Status:Loading software list status-loading-cache
+
+Status:Resolving dependencies status-resolving-dep
+
+Status:Downloading status-downloading
+
+Status:Finished status-finished
+
+Status Details:Downloading libc6
+Status Details:Downloading libc-bin
+Status Details:Downloading systemd-timesyncd
+Status Details:Downloading libsystemd0
+Status Details:Downloading libnss-systemd
+Status Details:Downloading libpam-systemd
+Status Details:Downloading systemd
+Status Details:Downloading udev
+Status Details:Downloading libudev1
+Status Details:Downloading libapt-pkg6.0
+Status Details:Downloading apt
+Status Details:Downloading apt-utils
+Status Details:Downloading cups-ipp-utils
+Status Details:Downloading cups-common
+Status Details:Downloading cups-bsd
+Status Details:Downloading cups-client
+Status Details:Downloading cups-core-drivers
+Status Details:Downloading cups-ppdc
+Status Details:Downloading cups-server-common
+Status Details:Downloading libx11-data
+Status Details:Downloading libx11-6
+Status Details:Downloading libx11-xcb1
+Status Details:Downloading ghostscript-x
+Status Details:Downloading ghostscript
+Status Details:Downloading libgs9
+Status Details:Downloading libgs9-common
+Status Details:Downloading libwebp7
+Status Details:Downloading libtiff5
+Status Details:Downloading cups-daemon
+Status Details:Downloading cups
+Status Details:Downloading libcups2
+Status Details:Downloading libldap-2.5-0
+Status Details:Downloading libsmbclient
+Status Details:Downloading libwbclient0
+Status Details:Downloading samba-libs
+Status Details:Downloading initramfs-tools-core
+Status Details:Downloading initramfs-tools-bin
+Status Details:Downloading netplan.io
+Status Details:Downloading libnetplan0
+Status Details:Downloading locales
+Status Details:Downloading ubuntu-advantage-tools
+Status Details:Downloading xxd
+Status Details:Downloading vim
+Status Details:Downloading vim-tiny
+Status Details:Downloading vim-runtime
+Status Details:Downloading vim-common
+Status Details:Downloading bind9-dnsutils
+Status Details:Downloading bind9-host
+Status Details:Downloading bind9-libs
+Status Details:Downloading file
+Status Details:Downloading libmagic1
+Status Details:Downloading libmagic-mgc
+Status Details:Downloading libcurl3-gnutls
+Status Details:Downloading git-man
+Status Details:Downloading git
+Status Details:Downloading openssh-client
+Status Details:Downloading alsa-ucm-conf
+Status Details:Downloading libcurl4
+Status Details:Downloading libflac8
+Status Details:Downloading libldap-common
+Status Details:Downloading libvpx7
+Status Details:Downloading libwebpmux3
+Status Details:Downloading libxpm4
+Status Details:Downloading linux-firmware
+Status Details:Downloading linux-modules-6.2.0-34-generic
+Status Details:Downloading linux-image-6.2.0-34-generic
+Status Details:Downloading linux-modules-extra-6.2.0-34-generic
+Status Details:Downloading amd64-microcode
+Status Details:Downloading intel-microcode
+Status Details:Downloading linux-generic-hwe-22.04
+Status Details:Downloading linux-image-generic-hwe-22.04
+Status Details:Downloading linux-hwe-6.2-headers-6.2.0-34
+Status Details:Downloading linux-headers-6.2.0-34-generic
+Status Details:Downloading linux-headers-generic-hwe-22.04
+Status Details:Downloading mokutil
+Status Details:Downloading thermald
+Status Details:Downloading xserver-xorg-video-amdgpu
+Status:Applying changes status-committing
+
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of libc6
+Status Details:Unpacking libc6
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installing libc6
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of libc6
+Status Details:Configuring libc6
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed libc6
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of libc-bin
+Status Details:Unpacking libc-bin
+Status Details:Installing libc-bin
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of libc-bin
+Status Details:Configuring libc-bin
+Status Details:Installed libc-bin
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of systemd-timesyncd
+Status Details:Unpacking systemd-timesyncd
+Status Details:Installing systemd-timesyncd
+Status Details:Preparing installation of libsystemd0
+Status Details:Unpacking libsystemd0
+Status Details:Installing libsystemd0
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of libsystemd0
+Status Details:Configuring libsystemd0
+Status Details:Installed libsystemd0
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of systemd-sysv
+Status Details:Unpacking systemd-sysv
+Status Details:Installing systemd-sysv
+Status Details:Preparing installation of libnss-systemd
+Status Details:Unpacking libnss-systemd
+Status Details:Installing libnss-systemd
+Status Details:Preparing installation of libpam-systemd
+Status Details:Unpacking libpam-systemd
+Status Details:Installing libpam-systemd
+Status Details:Preparing installation of systemd
+Status Details:Unpacking systemd
+Status Details:Installing systemd
+Status Details:Preparing installation of udev
+Status Details:Unpacking udev
+Status Details:Installing udev
+Status Details:Preparing installation of libudev1
+Status Details:Unpacking libudev1
+Status Details:Installing libudev1
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of libudev1
+Status Details:Configuring libudev1
+Status Details:Installed libudev1
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of libapt-pkg6.0
+Status Details:Unpacking libapt-pkg6.0
+Status Details:Installing libapt-pkg6.0
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of libapt-pkg6.0
+Status Details:Configuring libapt-pkg6.0
+Status Details:Installed libapt-pkg6.0
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of apt
+Status Details:Unpacking apt
+Status Details:Installing apt
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of apt
+Status Details:Configuring apt
+Status Details:Installed apt
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of apt-utils
+Status Details:Unpacking apt-utils
+Status Details:Installing apt-utils
+Status Details:Preparing installation of libcupsimage2
+Status Details:Unpacking libcupsimage2
+Status Details:Installing libcupsimage2
+Status Details:Preparing installation of cups-ipp-utils
+Status Details:Unpacking cups-ipp-utils
+Status Details:Installing cups-ipp-utils
+Status Details:Preparing installation of cups-common
+Status Details:Unpacking cups-common
+Status Details:Installing cups-common
+Status Details:Preparing installation of cups-bsd
+Status Details:Unpacking cups-bsd
+Status Details:Installing cups-bsd
+Status Details:Preparing installation of cups-client
+Status Details:Unpacking cups-client
+Status Details:Installing cups-client
+Status Details:Preparing installation of cups-core-drivers
+Status Details:Unpacking cups-core-drivers
+Status Details:Installing cups-core-drivers
+Status Details:Preparing installation of cups-ppdc
+Status Details:Unpacking cups-ppdc
+Status Details:Installing cups-ppdc
+Status Details:Preparing installation of cups-server-common
+Status Details:Unpacking cups-server-common
+Status Details:Installing cups-server-common
+Status Details:Preparing installation of libx11-data
+Status Details:Unpacking libx11-data
+Status Details:Installing libx11-data
+Status Details:Preparing installation of libx11-6
+Status Details:Unpacking libx11-6
+Status Details:Installing libx11-6
+Status Details:Preparing installation of libx11-xcb1
+Status Details:Unpacking libx11-xcb1
+Status Details:Installing libx11-xcb1
+Status Details:Preparing installation of ghostscript-x
+Status Details:Unpacking ghostscript-x
+Status Details:Installing ghostscript-x
+Status Details:Preparing installation of ghostscript
+Status Details:Unpacking ghostscript
+Status Details:Installing ghostscript
+Status Details:Preparing installation of libgs9
+Status Details:Unpacking libgs9
+Status Details:Installing libgs9
+Status Details:Preparing installation of libgs9-common
+Status Details:Unpacking libgs9-common
+Status Details:Installing libgs9-common
+Status Details:Preparing installation of libwebp7
+Status Details:Unpacking libwebp7
+Status Details:Installing libwebp7
+Status Details:Preparing installation of libtiff5
+Status Details:Unpacking libtiff5
+Status Details:Installing libtiff5
+Status Details:Preparing installation of cups-daemon
+Status Details:Unpacking cups-daemon
+Status Details:Installing cups-daemon
+Status Details:Preparing installation of cups
+Status Details:Unpacking cups
+Status Details:Installing cups
+Status Details:Preparing installation of libcups2
+Status Details:Unpacking libcups2
+Status Details:Installing libcups2
+Status Details:Preparing installation of libldap-2.5-0
+Status Details:Unpacking libldap-2.5-0
+Status Details:Installing libldap-2.5-0
+Status Details:Preparing installation of libsmbclient
+Status Details:Unpacking libsmbclient
+Status Details:Installing libsmbclient
+Status Details:Preparing installation of libwbclient0
+Status Details:Unpacking libwbclient0
+Status Details:Installing libwbclient0
+Status Details:Preparing installation of samba-libs
+Status Details:Unpacking samba-libs
+Status Details:Installing samba-libs
+Status Details:Preparing installation of libjson-c5
+Status Details:Unpacking libjson-c5
+Status Details:Installing libjson-c5
+Status Details:Preparing installation of initramfs-tools
+Status Details:Unpacking initramfs-tools
+Status Details:Installing initramfs-tools
+Status Details:Preparing installation of initramfs-tools-core
+Status Details:Unpacking initramfs-tools-core
+Status Details:Installing initramfs-tools-core
+Status Details:Preparing installation of initramfs-tools-bin
+Status Details:Unpacking initramfs-tools-bin
+Status Details:Installing initramfs-tools-bin
+Status Details:Preparing installation of netplan.io
+Status Details:Unpacking netplan.io
+Status Details:Installing netplan.io
+Status Details:Preparing installation of libnetplan0
+Status Details:Unpacking libnetplan0
+Status Details:Installing libnetplan0
+Status Details:Preparing installation of locales
+Status Details:Unpacking locales
+Status Details:Installing locales
+Status Details:Preparing installation of ubuntu-advantage-tools
+Status Details:Unpacking ubuntu-advantage-tools
+Status Details:Installing ubuntu-advantage-tools
+Status Details:Preparing installation of xxd
+Status Details:Unpacking xxd
+Status Details:Installing xxd
+Status Details:Preparing installation of vim
+Status Details:Unpacking vim
+Status Details:Installing vim
+Status Details:Preparing installation of vim-tiny
+Status Details:Unpacking vim-tiny
+Status Details:Installing vim-tiny
+Status Details:Preparing installation of vim-runtime
+Status Details:Unpacking vim-runtime
+Status Details:Installing vim-runtime
+Status Details:Preparing installation of vim-common
+Status Details:Unpacking vim-common
+Status Details:Installing vim-common
+Status Details:Preparing installation of bind9-dnsutils
+Status Details:Unpacking bind9-dnsutils
+Status Details:Installing bind9-dnsutils
+Status Details:Preparing installation of bind9-host
+Status Details:Unpacking bind9-host
+Status Details:Installing bind9-host
+Status Details:Preparing installation of bind9-libs
+Status Details:Unpacking bind9-libs
+Status Details:Installing bind9-libs
+Status Details:Preparing installation of file
+Status Details:Unpacking file
+Status Details:Installing file
+Status Details:Preparing installation of libmagic1
+Status Details:Unpacking libmagic1
+Status Details:Installing libmagic1
+Status Details:Preparing installation of libmagic-mgc
+Status Details:Unpacking libmagic-mgc
+Status Details:Installing libmagic-mgc
+Status Details:Preparing installation of libcurl3-gnutls
+Status Details:Unpacking libcurl3-gnutls
+Status Details:Installing libcurl3-gnutls
+Status Details:Preparing installation of git-man
+Status Details:Unpacking git-man
+Status Details:Installing git-man
+Status Details:Preparing installation of git
+Status Details:Unpacking git
+Status Details:Installing git
+Status Details:Preparing installation of openssh-client
+Status Details:Unpacking openssh-client
+Status Details:Installing openssh-client
+Status Details:Preparing installation of alsa-ucm-conf
+Status Details:Unpacking alsa-ucm-conf
+Status Details:Installing alsa-ucm-conf
+Status Details:Preparing installation of libcurl4
+Status Details:Unpacking libcurl4
+Status Details:Installing libcurl4
+Status Details:Preparing installation of libflac8
+Status Details:Unpacking libflac8
+Status Details:Installing libflac8
+Status Details:Preparing installation of libldap-common
+Status Details:Unpacking libldap-common
+Status Details:Installing libldap-common
+Status Details:Preparing installation of libvpx7
+Status Details:Unpacking libvpx7
+Status Details:Installing libvpx7
+Status Details:Preparing installation of libwebpdemux2
+Status Details:Unpacking libwebpdemux2
+Status Details:Installing libwebpdemux2
+Status Details:Preparing installation of libwebpmux3
+Status Details:Unpacking libwebpmux3
+Status Details:Installing libwebpmux3
+Status Details:Preparing installation of libxpm4
+Status Details:Unpacking libxpm4
+Status Details:Installing libxpm4
+Status Details:Preparing installation of linux-firmware
+Status Details:Unpacking linux-firmware
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Status Details:Installing linux-firmware
+Status Details:Preparing installation of linux-modules-6.2.0-34-generic
+Status Details:Unpacking linux-modules-6.2.0-34-generic
+Status Details:Installing linux-modules-6.2.0-34-generic
+Status Details:Preparing installation of linux-image-6.2.0-34-generic
+Status Details:Unpacking linux-image-6.2.0-34-generic
+Status Details:Installing linux-image-6.2.0-34-generic
+Status Details:Preparing installation of linux-modules-extra-6.2.0-34-generic
+Status Details:Unpacking linux-modules-extra-6.2.0-34-generic
+Status Details:Installing linux-modules-extra-6.2.0-34-generic
+Status Details:Preparing installation of amd64-microcode
+Status Details:Unpacking amd64-microcode
+Status Details:Installing amd64-microcode
+Status Details:Preparing installation of intel-microcode
+Status Details:Unpacking intel-microcode
+Status Details:Installing intel-microcode
+Status Details:Preparing installation of linux-generic-hwe-22.04
+Status Details:Unpacking linux-generic-hwe-22.04
+Status Details:Installing linux-generic-hwe-22.04
+Status Details:Preparing installation of linux-image-generic-hwe-22.04
+Status Details:Unpacking linux-image-generic-hwe-22.04
+Status Details:Installing linux-image-generic-hwe-22.04
+Status Details:Preparing installation of linux-hwe-6.2-headers-6.2.0-34
+Status Details:Unpacking linux-hwe-6.2-headers-6.2.0-34
+Status Details:Installing linux-hwe-6.2-headers-6.2.0-34
+Status Details:Preparing installation of linux-headers-6.2.0-34-generic
+Status Details:Unpacking linux-headers-6.2.0-34-generic
+Status Details:Installing linux-headers-6.2.0-34-generic
+Status Details:Preparing installation of linux-headers-generic-hwe-22.04
+Status Details:Unpacking linux-headers-generic-hwe-22.04
+Status Details:Installing linux-headers-generic-hwe-22.04
+Status Details:Preparing installation of mokutil
+Status Details:Unpacking mokutil
+Status Details:Installing mokutil
+Status Details:Preparing installation of thermald
+Status Details:Unpacking thermald
+Status Details:Installing thermald
+Status Details:Preparing installation of xserver-xorg-video-amdgpu
+Status Details:Unpacking xserver-xorg-video-amdgpu
+Status Details:Installing xserver-xorg-video-amdgpu
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of libgs9-common
+Status Details:Configuring libgs9-common
+Status Details:Installed libgs9-common
+Status Details:Preparing configuration of apt-utils
+Status Details:Configuring apt-utils
+Status Details:Installed apt-utils
+Status Details:Preparing configuration of mokutil
+Status Details:Configuring mokutil
+Status Details:Installed mokutil
+Status Details:Preparing configuration of cups-server-common
+Status Details:Configuring cups-server-common
+Status Details:Installed cups-server-common
+Status Details:Preparing configuration of alsa-ucm-conf
+Status Details:Configuring alsa-ucm-conf
+Status Details:Installed alsa-ucm-conf
+Status Details:Preparing configuration of libmagic-mgc
+Status Details:Configuring libmagic-mgc
+Status Details:Installed libmagic-mgc
+Status Details:Preparing configuration of xserver-xorg-video-amdgpu
+Status Details:Configuring xserver-xorg-video-amdgpu
+Status Details:Installed xserver-xorg-video-amdgpu
+Status Details:Preparing configuration of linux-firmware
+Status Details:Configuring linux-firmware
+Status Details:Installed linux-firmware
+Status Details:Preparing configuration of openssh-client
+Status Details:Configuring openssh-client
+Status Details:Installed openssh-client
+Status Details:Preparing configuration of intel-microcode
+Status Details:Configuring intel-microcode
+Status Details:Installed intel-microcode
+Status Details:Preparing configuration of cups-common
+Status Details:Configuring cups-common
+Status Details:Installed cups-common
+Status Details:Preparing configuration of libmagic1
+Status Details:Configuring libmagic1
+Status Details:Installed libmagic1
+Status Details:Preparing configuration of libnetplan0
+Status Details:Configuring libnetplan0
+Status Details:Installed libnetplan0
+Status Details:Preparing configuration of systemd
+Status Details:Configuring systemd
+Status Details:Installed systemd
+Status Details:Preparing configuration of file
+Status Details:Configuring file
+Status Details:Installed file
+Status Details:Preparing configuration of amd64-microcode
+Status Details:Configuring amd64-microcode
+Status Details:Installed amd64-microcode
+Status Details:Preparing configuration of locales
+Status Details:Configuring locales
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed locales
+Status Details:Preparing configuration of libldap-common
+Status Details:Configuring libldap-common
+Status Details:Installed libldap-common
+Status Details:Preparing configuration of libwbclient0
+Status Details:Configuring libwbclient0
+Status Details:Installed libwbclient0
+Status Details:Preparing configuration of libldap-2.5-0
+Status Details:Configuring libldap-2.5-0
+Status Details:Installed libldap-2.5-0
+Status Details:Preparing configuration of xxd
+Status Details:Configuring xxd
+Status Details:Installed xxd
+Status Details:Preparing configuration of libflac8
+Status Details:Configuring libflac8
+Status Details:Installed libflac8
+Status Details:Preparing configuration of netplan.io
+Status Details:Configuring netplan.io
+Status Details:Installed netplan.io
+Status Details:Preparing configuration of vim-common
+Status Details:Configuring vim-common
+Status Details:Installed vim-common
+Status Details:Preparing configuration of libx11-data
+Status Details:Configuring libx11-data
+Status Details:Installed libx11-data
+Status Details:Preparing configuration of linux-hwe-6.2-headers-6.2.0-34
+Status Details:Configuring linux-hwe-6.2-headers-6.2.0-34
+Status Details:Installed linux-hwe-6.2-headers-6.2.0-34
+Status Details:Preparing configuration of systemd-timesyncd
+Status Details:Configuring systemd-timesyncd
+Status Details:Installed systemd-timesyncd
+Status Details:Preparing configuration of udev
+Status Details:Configuring udev
+Status Details:Installed udev
+Status Details:Preparing configuration of linux-modules-6.2.0-34-generic
+Status Details:Configuring linux-modules-6.2.0-34-generic
+Status Details:Installed linux-modules-6.2.0-34-generic
+Status Details:Preparing configuration of libwebp7
+Status Details:Configuring libwebp7
+Status Details:Installed libwebp7
+Status Details:Preparing configuration of libcups2
+Status Details:Configuring libcups2
+Status Details:Installed libcups2
+Status Details:Preparing configuration of libcurl4
+Status Details:Configuring libcurl4
+Status Details:Installed libcurl4
+Status Details:Preparing configuration of git-man
+Status Details:Configuring git-man
+Status Details:Installed git-man
+Status Details:Preparing configuration of libx11-6
+Status Details:Configuring libx11-6
+Status Details:Installed libx11-6
+Status Details:Preparing configuration of libvpx7
+Status Details:Configuring libvpx7
+Status Details:Installed libvpx7
+Status Details:Preparing configuration of libtiff5
+Status Details:Configuring libtiff5
+Status Details:Installed libtiff5
+Status Details:Preparing configuration of linux-headers-6.2.0-34-generic
+Status Details:Configuring linux-headers-6.2.0-34-generic
+Status Details:Installed linux-headers-6.2.0-34-generic
+Status Details:Preparing configuration of vim-runtime
+Status Details:Configuring vim-runtime
+Status Details:Installed vim-runtime
+Status Details:Preparing configuration of linux-headers-generic-hwe-22.04
+Status Details:Configuring linux-headers-generic-hwe-22.04
+Status Details:Installed linux-headers-generic-hwe-22.04
+Status Details:Preparing configuration of libwebpmux3
+Status Details:Configuring libwebpmux3
+Status Details:Installed libwebpmux3
+Status Details:Preparing configuration of thermald
+Status Details:Configuring thermald
+Status Details:Installed thermald
+Status Details:Preparing configuration of libjson-c5
+Status Details:Configuring libjson-c5
+Status Details:Installed libjson-c5
+Status Details:Preparing configuration of initramfs-tools-bin
+Status Details:Configuring initramfs-tools-bin
+Status Details:Installed initramfs-tools-bin
+Status Details:Preparing configuration of cups-ipp-utils
+Status Details:Configuring cups-ipp-utils
+Status Details:Installed cups-ipp-utils
+Status Details:Preparing configuration of linux-image-6.2.0-34-generic
+Status Details:Configuring linux-image-6.2.0-34-generic
+Status Details:Installed linux-image-6.2.0-34-generic
+Status Details:Preparing configuration of libx11-xcb1
+Status Details:Configuring libx11-xcb1
+Status Details:Installed libx11-xcb1
+Status Details:Preparing configuration of cups-ppdc
+Status Details:Configuring cups-ppdc
+Status Details:Installed cups-ppdc
+Status Details:Preparing configuration of systemd-sysv
+Status Details:Configuring systemd-sysv
+Status Details:Installed systemd-sysv
+Status Details:Preparing configuration of vim
+Status Details:Configuring vim
+Status Details:Installed vim
+Status Details:Preparing configuration of libxpm4
+Status Details:Configuring libxpm4
+Status Details:Installed libxpm4
+Status Details:Preparing configuration of libgs9
+Status Details:Configuring libgs9
+Status Details:Installed libgs9
+Status Details:Preparing configuration of bind9-libs
+Status Details:Configuring bind9-libs
+Status Details:Installed bind9-libs
+Status Details:Preparing configuration of linux-modules-extra-6.2.0-34-generic
+Status Details:Configuring linux-modules-extra-6.2.0-34-generic
+Status Details:Installed linux-modules-extra-6.2.0-34-generic
+Status Details:Preparing configuration of libwebpdemux2
+Status Details:Configuring libwebpdemux2
+Status Details:Installed libwebpdemux2
+Status Details:Preparing configuration of samba-libs
+Status Details:Configuring samba-libs
+Status Details:Installed samba-libs
+Status Details:Preparing configuration of libnss-systemd
+Status Details:Configuring libnss-systemd
+Status Details:Installed libnss-systemd
+Status Details:Preparing configuration of libcurl3-gnutls
+Status Details:Configuring libcurl3-gnutls
+Status Details:Installed libcurl3-gnutls
+Status Details:Preparing configuration of vim-tiny
+Status Details:Configuring vim-tiny
+Status Details:Installed vim-tiny
+Status Details:Preparing configuration of ghostscript
+Status Details:Configuring ghostscript
+Status Details:Installed ghostscript
+Status Details:Preparing configuration of cups-client
+Status Details:Configuring cups-client
+Status Details:Installed cups-client
+Status Details:Preparing configuration of libcupsimage2
+Status Details:Configuring libcupsimage2
+Status Details:Installed libcupsimage2
+Status Details:Preparing configuration of cups-daemon
+Status Details:Configuring cups-daemon
+Status Details:Installed cups-daemon
+Status Details:Preparing configuration of git
+Status Details:Configuring git
+Status Details:Installed git
+Status Details:Preparing configuration of libsmbclient
+Status Details:Configuring libsmbclient
+Status Details:Installed libsmbclient
+Status Details:Preparing configuration of libpam-systemd
+Status Details:Configuring libpam-systemd
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Use of uninitialized value $template in exists at /usr/share/perl5/Debconf/Template.pm line 86, <> line 4.
+Use of uninitialized value $item in exists at /usr/share/perl5/Debconf/DbDriver/Cache.pm line 40, <> line 4.
+Use of uninitialized value $item in exists at /usr/share/perl5/Debconf/DbDriver/Cache.pm line 40, <> line 4.
+Status Details:Installed libpam-systemd
+Status Details:Preparing configuration of ubuntu-advantage-tools
+Status Details:Configuring ubuntu-advantage-tools
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed ubuntu-advantage-tools
+Status Details:Preparing configuration of initramfs-tools-core
+Status Details:Configuring initramfs-tools-core
+Status Details:Installed initramfs-tools-core
+Status Details:Preparing configuration of bind9-host
+Status Details:Configuring bind9-host
+Status Details:Installed bind9-host
+Status Details:Preparing configuration of linux-image-generic-hwe-22.04
+Status Details:Configuring linux-image-generic-hwe-22.04
+Status Details:Installed linux-image-generic-hwe-22.04
+Status Details:Preparing configuration of linux-generic-hwe-22.04
+Status Details:Configuring linux-generic-hwe-22.04
+Status Details:Installed linux-generic-hwe-22.04
+Status Details:Preparing configuration of cups-core-drivers
+Status Details:Configuring cups-core-drivers
+Status Details:Installed cups-core-drivers
+Status Details:Preparing configuration of initramfs-tools
+Status Details:Configuring initramfs-tools
+Status Details:Installed initramfs-tools
+Status Details:Preparing configuration of cups
+Status Details:Configuring cups
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed cups
+Status Details:Preparing configuration of cups-bsd
+Status Details:Configuring cups-bsd
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed cups-bsd
+Status Details:Preparing configuration of ghostscript-x
+Status Details:Configuring ghostscript-x
+Status Details:Installed ghostscript-x
+Status Details:Preparing configuration of bind9-dnsutils
+Status Details:Configuring bind9-dnsutils
+Status Details:Installed bind9-dnsutils
+Status Details:Running post-installation trigger libc-bin
+Status Details:Configuring libc-bin
+Status Details:Installed libc-bin
+Status Details:Running post-installation trigger linux-image-6.2.0-34-generic
+Status Details:Configuring linux-image-6.2.0-34-generic
+Status Details:Installed linux-image-6.2.0-34-generic
+Status Details:Running post-installation trigger initramfs-tools
+Status Details:Configuring initramfs-tools
+Status Details:Installed initramfs-tools
+Status:Finished status-finished
+
+Status:Finished status-finished
+
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1189, resource id: 31457286, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3238, resource id: 31457286, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+operation finished: 0x0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+delete MountOperation
+lxqt-session: "Session 'session', new input device '/dev/input/mouse2', keyboard setting will be (optionaly) reloaded..."
+lxqt-session: "Session 'session', new input device '/dev/input/js1', keyboard setting will be (optionaly) reloaded..."
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(1280, 800) , requiredSize: QSize(800, 600)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+lxqt-session: "Session 'session', new input device '/dev/input/event6', keyboard setting will be (optionaly) reloaded..."
+[load.applyBestSettings()] Finished
+size of original image QSize(1920, 1280)
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(800, 600) , requiredSize: QSize(795, 243)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+size of original image QSize(1920, 1280)
+[load.applyBestSettings()] Finished
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(795, 243) , requiredSize: QSize(798, 276)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+size of original image QSize(1920, 1280)
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+[load.applyBestSettings()] Finished
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+size of cached file QSize(798, 276) , requiredSize: QSize(795, 252)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+[load.applyBestSettings()] Finished
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+[load.applyBestSettings()] Finished
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+size of original image QSize(1920, 1280)
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(795, 252) , requiredSize: QSize(798, 276)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+size of original image QSize(1920, 1280)
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(798, 276) , requiredSize: QSize(796, 253)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(796, 253) , requiredSize: QSize(798, 276)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(798, 276) , requiredSize: QSize(796, 262)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(796, 262) , requiredSize: QSize(798, 276)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(798, 276) , requiredSize: QSize(797, 269)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(797, 269) , requiredSize: QSize(798, 276)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of original image QSize(1920, 1280)
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(798, 276) , requiredSize: QSize(798, 273)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+size of original image QSize(1920, 1280)
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(798, 273) , requiredSize: QSize(798, 276)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+size of original image QSize(1920, 1280)
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(798, 276) , requiredSize: QSize(798, 283)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+size of original image QSize(1920, 1280)
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(798, 283) , requiredSize: QSize(790, 472)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+lxqt-config-monitor: Extended mode has been applied
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Extended mode has been applied
+[load.applyBestSettings()] Finished
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Applying current settings...
+size of original image QSize(1920, 1280)
+[load.applyBestSettings()] Finished
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+Output:  "Virtual1"
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(790, 472) , requiredSize: QSize(799, 285)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(799, 285) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(799, 286)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(799, 286) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(800, 287)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(800, 287) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(800, 288)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(800, 288) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(800, 292)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(800, 292) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(800, 294)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(800, 294) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(800, 296)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(800, 296) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(800, 298)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(800, 298) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(800, 299)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(800, 299) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(800, 300)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(800, 300) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(798, 317)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(798, 317) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(788, 372)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(788, 372) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(787, 378)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(787, 378) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(786, 409)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(786, 409) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(786, 431)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(786, 431) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(787, 453)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(787, 453) , requiredSize: QSize(796, 501)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(796, 501) , requiredSize: QSize(790, 472)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(790, 472) , requiredSize: QSize(796, 501)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(796, 501) , requiredSize: QSize(793, 487)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(793, 487) , requiredSize: QSize(796, 501)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(796, 501) , requiredSize: QSize(794, 489)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(794, 489) , requiredSize: QSize(796, 501)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(796, 501) , requiredSize: QSize(796, 492)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(796, 492) , requiredSize: QSize(796, 501)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(796, 501) , requiredSize: QSize(797, 506)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(797, 506) , requiredSize: QSize(1920, 977)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(1920, 977) , requiredSize: QSize(797, 507)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(797, 507) , requiredSize: QSize(1920, 977)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanReboot" = "yes"
+aboutToQuit
+[Notice] Stopped
+
+xscreensaver: 19:59:15: SIGTERM
+
+xscreensaver:   signal: 0: child pid 1321 (xscreensaver-systemd) terminated with signal 15.
+xscreensaver:   signal: 0: CPU used: 0.0u, 0.0s.
+systemd: "CanReboot" = "yes"
+Xsession: X session started for data at Пт 13 окт 2023 20:01:34 +05
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/data/.Xauthority
+localuser:data being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting PWD=/home/data
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=data
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/data/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/data
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting LANG=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting USER=data
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+15:01:34.831905 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:34.831907 main     Log opened 2023-10-13T15:01:34.831903000Z
+15:01:34.831930 main     OS Product: Linux
+15:01:34.831935 main     OS Release: 6.2.0-34-generic
+15:01:34.831939 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:34.831943 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:34.831944 main     Process ID: 14403
+15:01:34.831944 main     Package type: LINUX_64BITS_GENERIC
+15:01:34.831960 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:34.831964 main      Service: Shared Clipboard
+15:01:34.840767 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:34.840771 main     Log opened 2023-10-13T15:01:34.840763000Z
+15:01:34.840805 main     OS Product: Linux
+15:01:34.840815 main     OS Release: 6.2.0-34-generic
+15:01:34.840823 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:34.840832 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:34.840833 main     Process ID: 14411
+15:01:34.840834 main     Package type: LINUX_64BITS_GENERIC
+15:01:34.840846 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:34.840854 main      Service: VirtualBox host version check
+15:01:34.859494 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:34.859496 main     Log opened 2023-10-13T15:01:34.859492000Z
+15:01:34.859519 main     OS Product: Linux
+15:01:34.859524 main     OS Release: 6.2.0-34-generic
+15:01:34.859528 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:34.859532 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:34.859532 main     Process ID: 14418
+15:01:34.859533 main     Package type: LINUX_64BITS_GENERIC
+15:01:34.859538 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:34.859542 main      Service: Seamless Mode Support
+15:01:34.865144 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:34.865146 main     Log opened 2023-10-13T15:01:34.865141000Z
+15:01:34.865169 main     OS Product: Linux
+15:01:34.865174 main     OS Release: 6.2.0-34-generic
+15:01:34.865177 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:34.865181 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:34.865181 main     Process ID: 14423
+15:01:34.865182 main     Package type: LINUX_64BITS_GENERIC
+15:01:34.865187 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:34.865191 main      Service: Drag'n'Drop
+15:01:34.872478 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:34.872481 main     Log opened 2023-10-13T15:01:34.872474000Z
+15:01:34.872515 main     OS Product: Linux
+15:01:34.872524 main     OS Release: 6.2.0-34-generic
+15:01:34.872533 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:34.872681 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:34.872683 main     Process ID: 14431
+15:01:34.872684 main     Package type: LINUX_64BITS_GENERIC
+15:01:34.872699 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:34.872813 main      Service: VMSVGA display assistant
+15:01:35.714702 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:35.714706 main     Log opened 2023-10-13T15:01:35.714696000Z
+15:01:35.714860 main     OS Product: Linux
+15:01:35.714875 main     OS Release: 6.2.0-34-generic
+15:01:35.714883 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:35.714948 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:35.714950 main     Process ID: 14535
+15:01:35.714951 main     Package type: LINUX_64BITS_GENERIC
+15:01:35.715283 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:35.715302 main      Service: Shared Clipboard
+15:01:35.731301 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:35.731306 main     Log opened 2023-10-13T15:01:35.731296000Z
+15:01:35.731360 main     OS Product: Linux
+15:01:35.731371 main     OS Release: 6.2.0-34-generic
+15:01:35.731379 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:35.731388 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:35.731389 main     Process ID: 14540
+15:01:35.731391 main     Package type: LINUX_64BITS_GENERIC
+15:01:35.731403 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:35.731411 main      Service: VirtualBox host version check
+15:01:35.752106 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:35.752110 main     Log opened 2023-10-13T15:01:35.752101000Z
+15:01:35.752215 main     OS Product: Linux
+15:01:35.752227 main     OS Release: 6.2.0-34-generic
+15:01:35.752308 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:35.752318 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:35.752320 main     Process ID: 14546
+15:01:35.752321 main     Package type: LINUX_64BITS_GENERIC
+15:01:35.752333 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:35.753112 main      Service: Seamless Mode Support
+15:01:35.765070 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:35.765078 main     Log opened 2023-10-13T15:01:35.765067000Z
+15:01:35.765114 main     OS Product: Linux
+15:01:35.765123 main     OS Release: 6.2.0-34-generic
+15:01:35.765132 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:35.765140 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:35.765141 main     Process ID: 14552
+15:01:35.765142 main     Package type: LINUX_64BITS_GENERIC
+15:01:35.765154 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:35.765162 main      Service: Drag'n'Drop
+15:01:35.782534 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:01:35.782538 main     Log opened 2023-10-13T15:01:35.782529000Z
+15:01:35.782579 main     OS Product: Linux
+15:01:35.782589 main     OS Release: 6.2.0-34-generic
+15:01:35.782597 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:01:35.782606 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:01:35.782607 main     Process ID: 14557
+15:01:35.782608 main     Package type: LINUX_64BITS_GENERIC
+15:01:35.782620 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:01:35.782629 main      Service: VMSVGA display assistant
+isPrimaryInstance
+New PolkitAgentListener  0x55e5b44ce000
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffd8360d170) for  0x55e5b44ce000
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+XdgDesktopFile "/usr/share/applications/firefox.desktop" is not valid
+size of cached file QSize(1920, 977) , requiredSize: QSize(1920, 977)
+origin "/usr/share/lubuntu/wallpapers/lubuntu-default-wallpaper.png"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1600008 handle QWidgetWindow(0x559c42056c40, name="LXQtPanel panel1Window") QScreen(0x559c41daf940, name="Virtual1")
+Systray started
+()
+Translator is not loaded "qlipper_ru_RU" "/usr/share/qlipper/translations"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+operation finished: 0x0
+delete MountOperation
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanReboot" = "yes"
+aboutToQuit
+[Notice] Stopped
+
+xscreensaver: 20:02:46: SIGTERM
+
+systemd: "CanReboot" = "yes"
+Xsession: X session started for data at Пт 13 окт 2023 20:04:24 +05
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/data/.Xauthority
+localuser:data being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting PWD=/home/data
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=data
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/data/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/data
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting LANG=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting USER=data
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+15:04:24.337489 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:24.337497 main     Log opened 2023-10-13T15:04:24.337486000Z
+15:04:24.337531 main     OS Product: Linux
+15:04:24.337541 main     OS Release: 6.2.0-34-generic
+15:04:24.337549 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:24.337558 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:24.337559 main     Process ID: 1129
+15:04:24.337560 main     Package type: LINUX_64BITS_GENERIC
+15:04:24.337571 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:24.337580 main      Service: Shared Clipboard
+15:04:24.344804 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:24.344806 main     Log opened 2023-10-13T15:04:24.344801000Z
+15:04:24.344828 main     OS Product: Linux
+15:04:24.344833 main     OS Release: 6.2.0-34-generic
+15:04:24.344837 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:24.344841 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:24.344841 main     Process ID: 1137
+15:04:24.344841 main     Package type: LINUX_64BITS_GENERIC
+15:04:24.344847 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:24.344851 main      Service: VirtualBox host version check
+15:04:24.353146 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:24.353153 main     Log opened 2023-10-13T15:04:24.353142000Z
+15:04:24.353186 main     OS Product: Linux
+15:04:24.353195 main     OS Release: 6.2.0-34-generic
+15:04:24.353204 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:24.353212 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:24.353213 main     Process ID: 1144
+15:04:24.353214 main     Package type: LINUX_64BITS_GENERIC
+15:04:24.353225 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:24.353234 main      Service: Seamless Mode Support
+15:04:24.360411 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:24.360413 main     Log opened 2023-10-13T15:04:24.360408000Z
+15:04:24.360434 main     OS Product: Linux
+15:04:24.360440 main     OS Release: 6.2.0-34-generic
+15:04:24.360444 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:24.360447 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:24.360448 main     Process ID: 1149
+15:04:24.360448 main     Package type: LINUX_64BITS_GENERIC
+15:04:24.360454 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:24.360458 main      Service: Drag'n'Drop
+15:04:24.366237 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:24.366239 main     Log opened 2023-10-13T15:04:24.366234000Z
+15:04:24.366261 main     OS Product: Linux
+15:04:24.366266 main     OS Release: 6.2.0-34-generic
+15:04:24.366270 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:24.366273 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:24.366274 main     Process ID: 1157
+15:04:24.366274 main     Package type: LINUX_64BITS_GENERIC
+15:04:24.366280 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:24.366339 main      Service: VMSVGA display assistant
+15:04:25.189532 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:25.189536 main     Log opened 2023-10-13T15:04:25.189526000Z
+15:04:25.189604 main     OS Product: Linux
+15:04:25.189615 main     OS Release: 6.2.0-34-generic
+15:04:25.189623 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:25.189632 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:25.189633 main     Process ID: 1256
+15:04:25.189634 main     Package type: LINUX_64BITS_GENERIC
+15:04:25.189646 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:25.189655 main      Service: Shared Clipboard
+15:04:25.203473 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:25.203477 main     Log opened 2023-10-13T15:04:25.203467000Z
+15:04:25.203513 main     OS Product: Linux
+15:04:25.203522 main     OS Release: 6.2.0-34-generic
+15:04:25.203531 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:25.203539 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:25.203541 main     Process ID: 1259
+15:04:25.203542 main     Package type: LINUX_64BITS_GENERIC
+15:04:25.203568 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:25.203578 main      Service: VirtualBox host version check
+15:04:25.216995 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:25.216999 main     Log opened 2023-10-13T15:04:25.216990000Z
+15:04:25.217035 main     OS Product: Linux
+15:04:25.217045 main     OS Release: 6.2.0-34-generic
+15:04:25.217054 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:25.217062 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:25.217063 main     Process ID: 1267
+15:04:25.217064 main     Package type: LINUX_64BITS_GENERIC
+15:04:25.217076 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:25.217085 main      Service: Seamless Mode Support
+15:04:25.228383 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:25.228386 main     Log opened 2023-10-13T15:04:25.228377000Z
+15:04:25.228420 main     OS Product: Linux
+15:04:25.228430 main     OS Release: 6.2.0-34-generic
+15:04:25.228438 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:25.228447 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:25.228448 main     Process ID: 1273
+15:04:25.228449 main     Package type: LINUX_64BITS_GENERIC
+15:04:25.228460 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:25.228469 main      Service: Drag'n'Drop
+15:04:25.235760 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:04:25.235763 main     Log opened 2023-10-13T15:04:25.235755000Z
+15:04:25.235797 main     OS Product: Linux
+15:04:25.235807 main     OS Release: 6.2.0-34-generic
+15:04:25.235815 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:04:25.235823 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:04:25.235824 main     Process ID: 1277
+15:04:25.235826 main     Package type: LINUX_64BITS_GENERIC
+15:04:25.235837 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:04:25.235846 main      Service: VMSVGA display assistant
+New PolkitAgentListener  0x55db30124a00
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffc7604e860) for  0x55db30124a00
+isPrimaryInstance
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+size of cached file QSize(1920, 977) , requiredSize: QSize(1920, 977)
+XdgDesktopFile "/usr/share/applications/firefox.desktop" is not valid
+origin "/usr/share/lubuntu/wallpapers/lubuntu-default-wallpaper.png"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1600008 handle QWidgetWindow(0x558fc56e23d0, name="LXQtPanel panel1Window") QScreen(0x558fc543a940, name="Virtual1")
+Systray started
+()
+Translator is not loaded "qlipper_ru_RU" "/usr/share/qlipper/translations"
+Starting idlenesswatcher
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+[Notice] Started
+operation finished: 0x0
+delete MountOperation
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2947, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Xsession: X session started for data at Пт 13 окт 2023 20:56:25 +05
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/data/.Xauthority
+localuser:data being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting PWD=/home/data
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=data
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/data/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/data
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting LANG=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting USER=data
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+15:56:25.672425 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:25.672428 main     Log opened 2023-10-13T15:56:25.672423000Z
+15:56:25.672450 main     OS Product: Linux
+15:56:25.672455 main     OS Release: 6.2.0-34-generic
+15:56:25.672459 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:25.672462 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:25.672463 main     Process ID: 1129
+15:56:25.672463 main     Package type: LINUX_64BITS_GENERIC
+15:56:25.672469 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:25.672472 main      Service: Shared Clipboard
+15:56:25.678663 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:25.678666 main     Log opened 2023-10-13T15:56:25.678658000Z
+15:56:25.678714 main     OS Product: Linux
+15:56:25.678724 main     OS Release: 6.2.0-34-generic
+15:56:25.678733 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:25.678741 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:25.678742 main     Process ID: 1134
+15:56:25.678743 main     Package type: LINUX_64BITS_GENERIC
+15:56:25.678755 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:25.678764 main      Service: VirtualBox host version check
+15:56:25.686428 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:25.686432 main     Log opened 2023-10-13T15:56:25.686424000Z
+15:56:25.686466 main     OS Product: Linux
+15:56:25.686476 main     OS Release: 6.2.0-34-generic
+15:56:25.686485 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:25.686493 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:25.686494 main     Process ID: 1144
+15:56:25.686495 main     Package type: LINUX_64BITS_GENERIC
+15:56:25.686507 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:25.686515 main      Service: Seamless Mode Support
+15:56:25.693663 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:25.693670 main     Log opened 2023-10-13T15:56:25.693659000Z
+15:56:25.693703 main     OS Product: Linux
+15:56:25.693712 main     OS Release: 6.2.0-34-generic
+15:56:25.693721 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:25.693729 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:25.693730 main     Process ID: 1149
+15:56:25.693731 main     Package type: LINUX_64BITS_GENERIC
+15:56:25.693743 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:25.693751 main      Service: Drag'n'Drop
+15:56:25.703427 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:25.703431 main     Log opened 2023-10-13T15:56:25.703423000Z
+15:56:25.703463 main     OS Product: Linux
+15:56:25.703473 main     OS Release: 6.2.0-34-generic
+15:56:25.703481 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:25.703490 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:25.703491 main     Process ID: 1157
+15:56:25.703492 main     Package type: LINUX_64BITS_GENERIC
+15:56:25.703503 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:25.703605 main      Service: VMSVGA display assistant
+15:56:26.480920 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:26.480924 main     Log opened 2023-10-13T15:56:26.480913000Z
+15:56:26.480962 main     OS Product: Linux
+15:56:26.480972 main     OS Release: 6.2.0-34-generic
+15:56:26.480980 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:26.480989 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:26.480990 main     Process ID: 1249
+15:56:26.480991 main     Package type: LINUX_64BITS_GENERIC
+15:56:26.481004 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:26.481013 main      Service: Shared Clipboard
+15:56:26.496869 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:26.496873 main     Log opened 2023-10-13T15:56:26.496864000Z
+15:56:26.496911 main     OS Product: Linux
+15:56:26.496921 main     OS Release: 6.2.0-34-generic
+15:56:26.496929 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:26.496938 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:26.496939 main     Process ID: 1253
+15:56:26.496940 main     Package type: LINUX_64BITS_GENERIC
+15:56:26.496952 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:26.496972 main      Service: VirtualBox host version check
+15:56:26.518391 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:26.518394 main     Log opened 2023-10-13T15:56:26.518386000Z
+15:56:26.518427 main     OS Product: Linux
+15:56:26.518437 main     OS Release: 6.2.0-34-generic
+15:56:26.518445 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:26.518454 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:26.518455 main     Process ID: 1259
+15:56:26.518456 main     Package type: LINUX_64BITS_GENERIC
+15:56:26.518467 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:26.518476 main      Service: Seamless Mode Support
+15:56:26.529964 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:26.529967 main     Log opened 2023-10-13T15:56:26.529960000Z
+15:56:26.529999 main     OS Product: Linux
+15:56:26.530008 main     OS Release: 6.2.0-34-generic
+15:56:26.530017 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:26.530025 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:26.530026 main     Process ID: 1263
+15:56:26.530028 main     Package type: LINUX_64BITS_GENERIC
+15:56:26.530039 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:26.530047 main      Service: Drag'n'Drop
+15:56:26.539902 main     VBoxClient 7.0.10 r158379 (verbosity: 0) linux.amd64 (Jul 12 2023 20:36:17) release log
+15:56:26.539906 main     Log opened 2023-10-13T15:56:26.539897000Z
+15:56:26.539941 main     OS Product: Linux
+15:56:26.539951 main     OS Release: 6.2.0-34-generic
+15:56:26.539979 main     OS Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+15:56:26.539992 main     Executable: /opt/VBoxGuestAdditions-7.0.10/bin/VBoxClient
+15:56:26.539993 main     Process ID: 1268
+15:56:26.539994 main     Package type: LINUX_64BITS_GENERIC
+15:56:26.540006 main      VBoxClient 7.0.10 r158379 started. Verbose level = 0. Wayland environment detected: no
+15:56:26.540015 main      Service: VMSVGA display assistant
+New PolkitAgentListener  0x55957a795a00
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffd2c650e10) for  0x55957a795a00
+isPrimaryInstance
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+XdgDesktopFile "/usr/share/applications/firefox.desktop" is not valid
+size of cached file QSize(1920, 977) , requiredSize: QSize(1920, 977)
+origin "/usr/share/lubuntu/wallpapers/lubuntu-default-wallpaper.png"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1c00008 handle QWidgetWindow(0x5639d7ec3c00, name="LXQtPanel panel1Window") QScreen(0x5639d7c1d940, name="Virtual1")
+Systray started
+()
+Translator is not loaded "qlipper_ru_RU" "/usr/share/qlipper/translations"
+Starting idlenesswatcher
+"PowerButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+operation finished: 0x0
+delete MountOperation
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+pcmanfm-qt /home/data
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1394, resource id: 16777326, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+pcmanfm-qt /home/data
+pcmanfm-qt /home/data
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(1920, 977) , requiredSize: QSize(640, 480)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+[load.applyBestSettings()] Finished
+size of original image QSize(1920, 1280)
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(640, 480) , requiredSize: QSize(1920, 977)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Warning: failed to launch javaldx - java may not function correctly
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Warning: failed to launch javaldx - java may not function correctly
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(1920, 977) , requiredSize: QSize(640, 480)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(640, 480) , requiredSize: QSize(746, 677)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of original image QSize(1920, 1280)
+[load.applyBestSettings()] Finished
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Applying current settings...
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Extended mode has been applied
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+[load.applyBestSettings()] Finished
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(746, 677) , requiredSize: QSize(841, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-config-monitor: Extended mode has been applied
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+size of original image QSize(1920, 1280)
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Применены настройки монитора по умолчанию. Если вы хотите изменить настройки мониторов, используйте lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(841, 808) , requiredSize: QSize(752, 687)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(752, 687) , requiredSize: QSize(841, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(841, 808) , requiredSize: QSize(772, 712)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(772, 712) , requiredSize: QSize(841, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(841, 808) , requiredSize: QSize(776, 722)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(776, 722) , requiredSize: QSize(841, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(841, 808) , requiredSize: QSize(785, 753)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(785, 753) , requiredSize: QSize(841, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(841, 808) , requiredSize: QSize(795, 775)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(795, 775) , requiredSize: QSize(841, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(841, 808) , requiredSize: QSize(812, 795)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(812, 795) , requiredSize: QSize(841, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(841, 808) , requiredSize: QSize(831, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(831, 808) , requiredSize: QSize(841, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(841, 808) , requiredSize: QSize(838, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(838, 808) , requiredSize: QSize(841, 808)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(841, 808) , requiredSize: QSize(826, 778)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(826, 778) , requiredSize: QSize(837, 801)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(837, 801) , requiredSize: QSize(826, 778)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(826, 778) , requiredSize: QSize(833, 793)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+size of cached file QSize(833, 793) , requiredSize: QSize(826, 778)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+Warning: failed to launch javaldx - java may not function correctly
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(826, 778) , requiredSize: QSize(1920, 977)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+size of original image QSize(1920, 1280)
+lxqt-config-monitor: Extended mode has been applied
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+size of cached file QSize(1920, 977) , requiredSize: QSize(826, 778)
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+size of original image QSize(1920, 1280)
+wallpaper cached saved to  "/home/data/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
