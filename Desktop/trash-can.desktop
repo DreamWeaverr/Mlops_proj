@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
 Exec=pcmanfm-qt trash:///
-Icon=user-trash
-Name=Корзина (пусто)
+Icon=user-trash-full
+Name=Корзина (1 объект)

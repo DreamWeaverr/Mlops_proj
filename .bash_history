@@ -27,3 +27,14 @@ ls
 cd VBox_GAs_7.0.10/
 ls
 sudo ./VBoxLinuxAdditions.run
+ssh -T git@github.com
+git remote -v
+git remote rm origin
+git remote add origin git@github.com:DreamWeaverr/Mlops_proj.git
+git push origin master
+git clone https://github.com/tokarevsas31/mlops_2.git
+ssh -T git@github.com
+dvc --version
+git init
+dvc init
+vi data/README.txt
